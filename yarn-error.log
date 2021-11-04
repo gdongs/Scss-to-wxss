@@ -1,0 +1,36 @@
+Arguments: 
+  D:\nodejs\node.exe C:\Users\chen\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js init
+
+PATH: 
+  C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\nodejs\;D:\Git\cmd;D:\Go\bin;C:\Users\chen\AppData\Local\Microsoft\WindowsApps;D:\Bandizip\;D:\Microsoft VS Code\bin;C:\Users\chen\AppData\Roaming\npm;D:\Android\SDK\platform-tools;D:\Android\SDK\emulator;D:\Android\SDK\tools;D:\Android\SDK\tools\bin;D:\Huawei\DevEco Studio 2.1.0.501\bin;;C:\Users\chen\go\bin;E:\go\bin;
+
+Yarn version: 
+  1.22.15
+
+Node version: 
+  14.17.5
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Users\chen\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:137145:13)
+      at Interface.emit (events.js:400:28)
+      at Interface._ttyWrite (readline.js:910:16)
+      at ReadStream.onkeypress (readline.js:235:10)
+      at ReadStream.emit (events.js:400:28)
+      at emitKeys (internal/readline/utils.js:358:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1179:36)
+      at ReadStream.emit (events.js:400:28)
+      at addChunk (internal/streams/readable.js:290:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
